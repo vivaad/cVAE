@@ -31,7 +31,7 @@ pip install -r requirements.txt
 To train the cVAE model, run the following command in your terminal:
 
 ```sh
-python cpu_cvae.py --config configs/train_config.yaml
+python cpu_cvae.py 
 ```
 
 You can find example notebooks in the `notebooks/` directory to get started with training and evaluating the cVAE model.
